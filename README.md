@@ -15,7 +15,10 @@ cd plotter
 ```
 npm install
 ```
-
+### Run the server
+```
+npm run dev
+```
 ### Navigate to localhost in browser
 
 ```
